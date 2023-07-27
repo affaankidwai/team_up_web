@@ -4,25 +4,16 @@ export default function HomePage() {
   return (
     <div
       style={{
-        backgroundColor: "#4E4FEB",
+        backgroundColor: "#58287F",
         height: "98vh",
       }}
     >
       <div>
-        {/* <h1
-          style={{
-            fontSize: 50,
-            fontWeight: "bold",
-            color: "silver",
-          }}
-        >
-          Team Up
-        </h1> */}
         <h2
           style={{
             fontSize: 30,
             // fontWeight: "bold",
-            color: "silver",
+            color: "white",
           }}
         >
           Discover Sports Games and Meetups Near You
@@ -31,7 +22,7 @@ export default function HomePage() {
           style={{
             fontSize: 30,
             // fontWeight: "bold",
-            color: "silver",
+            color: "white",
           }}
         >
           Connecting Sports Enthusiasts, One Game at a Time
@@ -48,7 +39,7 @@ export default function HomePage() {
               style={{
                 fontSize: 28,
                 // fontWeight: "bold",
-                color: "silver",
+                color: "white",
               }}
             >
               Welcome to Team Up, the app that makes it easier than ever to find

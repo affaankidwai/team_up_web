@@ -9,7 +9,7 @@ const Navbar = () => {
           flexDirection: "row",
           alignItems: "center",
           justifyContent: "space-between",
-          backgroundColor: "#068FFF",
+          backgroundColor: "#7D1E6A",
           height: 50,
         }}
       >
@@ -19,10 +19,10 @@ const Navbar = () => {
             <Link href="/">Home</Link>
           </li>
           <li style={{ marginRight: "20px" }}>
-            <Link href="/about">About</Link>
+            <Link href="/About">About</Link>
           </li>
           <li>
-            <Link href="/contact">Contact</Link>
+            <Link href="/Contact">Contact</Link>
           </li>
         </ul>
       </div>

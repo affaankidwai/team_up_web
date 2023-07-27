@@ -2,8 +2,9 @@ import Navbar from "../components/Navbar";
 
 const AboutPage = () => {
   return (
-    <div style={{ minHeight: "100vh", backgroundColor: "white" }}>
-      <Navbar />
+    <div
+      style={{ minHeight: "100vh", backgroundColor: "#58287F", color: "white" }}
+    >
       <div style={{ margin: "0 auto", maxWidth: "800px", padding: "20px" }}>
         <h1
           style={{ fontSize: "24px", fontWeight: "bold", marginBottom: "10px" }}
